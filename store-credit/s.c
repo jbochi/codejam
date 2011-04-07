@@ -9,7 +9,6 @@ int main() {
     int k;
     int items[2000];
 
-
     int s1 = 0;
     int s2 = 0;
     int found = 0;
